@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: Anh15052001/express-sample-project:staging
+          tags: vietanhfintech/express-sample-project:staging
 
 
   pull-and-up:
